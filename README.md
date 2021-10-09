@@ -18,7 +18,6 @@
   <img align="center" alt="Hiran-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
 
   <img align="center" alt="Hiran-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="Hiran-Csharp" height="30" width="40" src="https://i2.wp.com/www.mementotech.in/assets/images/icons/express.png">
   <img align="right" alt="Hells"  src="https://br.ninonline.org/uploads/monthly_2021_05/Va69r4qRZ4fmXR5zn8AYNRu1bc3vMZbkoCHRfrleWG8.gif.33a604d4e50b9c81409cec72f98b321f.gif" height="110"/>
 </div>
 
