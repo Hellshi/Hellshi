@@ -16,7 +16,7 @@
   <img align="center" alt="Hell-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Hell-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Hell-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <link rel="stylesheet" align="center" height="30" width="40" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" />
 
   <img align="center" alt="Hell-Post" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
   <img align="right" alt="Hells"  src="https://br.ninonline.org/uploads/monthly_2021_05/Va69r4qRZ4fmXR5zn8AYNRu1bc3vMZbkoCHRfrleWG8.gif.33a604d4e50b9c81409cec72f98b321f.gif" height="110"/>
