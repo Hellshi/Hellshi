@@ -18,8 +18,7 @@
   <img align="center" alt="Hell-node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
   <img align="center" alt="Hell-node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original-wordmark.svg"/>
   <img align="center" alt="Hell-R" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" />
-
-  <img align="center" alt="Hell-Post" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+  <img  align="center" alt="Hell-R" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
   <img align="right" alt="Hells"  src="https://br.ninonline.org/uploads/monthly_2021_05/Va69r4qRZ4fmXR5zn8AYNRu1bc3vMZbkoCHRfrleWG8.gif.33a604d4e50b9c81409cec72f98b321f.gif" height="110"/>
 </div>
 
