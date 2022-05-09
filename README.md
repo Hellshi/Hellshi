@@ -1,5 +1,5 @@
-## Hey I'm Hellshi 🌟
-#### Don't mind the name, who did say that? Oh yhea, Shakespeare. What was I even saying? Oh yhea, code... and me! Hellem, by the way. Watch bellow what I can do! 
+## Hey I'm Hell 🌟
+#### Don't mind the name, who did say that? Oh! Shakespeare did. What was I even saying? Oh yes, code... and me! Hellem, by the way. Watch bellow what I can do! 
 </br>
 <div>
   <img  width="50%" align="center" src="https://github-readme-stats.vercel.app/api?username=hellshi&show_icons=true&theme=radical" />
