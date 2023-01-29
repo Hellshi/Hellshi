@@ -1,5 +1,5 @@
 ## Hey I'm Hell 🌟
-#### Don't mind the name, who did say that? Oh! Shakespeare did. What was I even saying? Oh yes, code... and me! Hellem, by the way. Watch bellow what I can do! 
+#### I've been working with web development for over a year and a half. In the meantime. I was able to increase the quality of APIs by implementing and maintaining microservices, integration of observability flows, and error management, which directly impacted the final customer. I was able to actively work on refactoring and legacy code maintenance to ease the development flow for my mates. 
 </br>
 <div>
   <img  width="50%" align="center" src="https://github-readme-stats.vercel.app/api?username=hellshi&show_icons=true&theme=radical" />
