@@ -1,4 +1,4 @@
-## Hey I'm Hell 🌟
+## Hey I'm Hellem 🌟
 #### I've been working with web development for over a year and a half. In the meantime. I was able to increase the quality of APIs by implementing and maintaining microservices, integration of observability flows, and error management, which directly impacted the final customer. I was able to actively work on refactoring and legacy code maintenance to ease the development flow for my mates. 
 </br>
 <div>
