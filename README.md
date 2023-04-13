@@ -1,5 +1,5 @@
 ## Hey I'm Hellem 🌟
-#### I've been working with web development for over a year and a half. In the meantime. I was able to increase the quality of APIs by implementing and maintaining microservices, integration of observability flows, and error management, which directly impacted the final customer. I was able to actively work on refactoring and legacy code maintenance to ease the development flow for my mates. 
+#### Software development professional with experience in developing and designing web applications using Node, Typescript/JavaScript, RabbitMQ, Redis, React, NestJs, Next.JS, and Jest. Adept at developing and deploying complex back-end systems, web services, and databases
 </br>
 <div>
   <img  width="50%" align="center" src="https://github-readme-stats.vercel.app/api?username=hellshi&show_icons=true&theme=radical" />
