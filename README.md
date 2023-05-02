@@ -1,5 +1,5 @@
 ## Hey I'm Hellem 🌟
-#### Software development professional with experience in developing and designing web applications using Node, Typescript/JavaScript, RabbitMQ, Redis, React, NestJs, Next.JS, and Jest. Adept at developing and deploying complex back-end systems, web services, and databases
+#### Software development professional with experience in developing and designing web applications using Node, Typescript/JavaScript, AWS, RabbitMQ, Redis, React, NestJs, Next.JS, and Jest. Adept at developing and deploying complex back-end systems, web services, and databases
 </br>
 <div>
   <img  width="50%" align="center" src="https://github-readme-stats.vercel.app/api?username=hellshi&show_icons=true&theme=radical" />
